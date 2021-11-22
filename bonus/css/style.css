@@ -1,0 +1,37 @@
+.container {
+    background-color: #985451;
+}
+
+ .macro-pixel {
+     height: 97.5px;
+     border: 1px solid black;
+ }
+
+ .micro-pixel {
+     height: 47.75px;
+     border: 1px solid black;
+ }
+
+ .bg-white {
+     background-color: #fffeff;
+ }
+
+ .bg-lighter-green {
+    background-color: #28b141;
+}
+
+.bg-medium-green {
+    background-color: #2e9540;
+}
+
+.bg-darker-green {
+    background-color: #2a6433;
+}
+
+.bg-black {
+    background-color: #000100;
+}
+
+.bg-face-skin {
+    background-color: #ad8b62;
+}
